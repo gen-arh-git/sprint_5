@@ -12,5 +12,11 @@ cors:
 Запустите ассистента: rasa run --cors "*" --enable-api --log-file DEBUG -vv
 
 Лог в файле DEBUG	
- 
+
+UPD:
+
+ - Увеличил количество эпох 
+ - Провел обучение rasa train 
+ - Ответы также ограничены 
+ - лог в файле DEBUG_2
  
